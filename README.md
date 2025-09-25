@@ -1,6 +1,9 @@
 # Foxbell-BOT
 QQ server management bot for Minecraft (with Napcat)
 Napcat Address:https://github.com/NapNeko/NapCatQQ  
+The project uses some of the interfaces provided by Napcat  
+该项目使用了Napcat提供的一些接口  
+
 Need to download Napcat (after the tool is installed, directly unzip napcat and stuff the file into the Foxbell root directory)  
 需要下载 Napcat（安装工具后，直接解压 napcat 并将文件塞入 Foxbell 根目录） 
 
